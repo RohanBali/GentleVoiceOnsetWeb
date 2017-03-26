@@ -1,14 +1,14 @@
-title: "Your Name"
-description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-about: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-location: "Your Region, Country"
-email: your-email@example.com
+title: "Gentle Voice Onset"
+description: "Download the Gentle Voice Onset Software"
+about: "Download the Gentle Voice Onset Software"
+location: ""
+email: info@speechandstuttering.com
 baseurl: ""
 
 url: "" # replace by your site's url
-twitter_username: your-name
-github_username:  lukas-h
-author: "Your Name"
+twitter_username: 
+github_username:  
+author: "The Speech & Stuttering Institute"
 
 # google analytics tracking code, please change the value
 g_analytics: ""
@@ -23,9 +23,9 @@ disqus_shortname:
 isolang: en
 close_btn: "Close"
 home_btn: "Home"
-projects_btn: "Projects"
-posts_btn: "Posts"
-imprint_btn: "Imprint"
+projects_btn: "Download"
+posts_btn: "About Us"
+imprint_btn: "Legal Info"
 name_badge: "an article by"
 rss_badge: "Subscribe feed!"
 

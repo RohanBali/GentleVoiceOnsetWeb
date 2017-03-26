@@ -18,3 +18,7 @@ var show_posts = function() {
     });
     $('#posts-btn').addClass('disabled')
 };
+
+$( document ).ready(function() {
+    show_projects();
+});
