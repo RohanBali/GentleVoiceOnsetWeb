@@ -22,3 +22,13 @@ var show_posts = function() {
 $( document ).ready(function() {
     show_projects();
 });
+
+
+var passwd = function(linkName){
+  var password = prompt('Enter the password to download the file:');
+  if(password == "7771Speech"){
+    window.open(linkName)    
+}else{
+    alert("incorrect password!! please try again");
+}
+}

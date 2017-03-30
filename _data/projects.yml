@@ -1,6 +1,6 @@
 - name: Download for Windows
-  link: "#"
+  link: "windows.txt.gz"
   description: "Supports Windows 7 and above"
 - name: Download for Mac
-  link: "#"
+  link: "mac.txt.gz"
   description: "Supports Mac OSX 10.7 and above"
