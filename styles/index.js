@@ -26,7 +26,7 @@ var show_posts = function() {
 
 var passwd = function(linkName){
   var password = prompt('Enter the password to download the file:');
-  if(password == "7771Speech"){
+  if(password == "M3B3M4"){
     window.open(linkName)    
 }else{
     alert("incorrect password!! please try again");
