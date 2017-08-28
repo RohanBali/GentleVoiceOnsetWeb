@@ -3,7 +3,7 @@
 {% include head.html %}
 <body>
 
-  <div class="container">
+  <div class="container" style="padding-top: 2em;">
     <div class="row">
       <div class="col s12 m2">
         <img src="images/logo.png" class="img-fluid" alt="Responsive image">
@@ -13,13 +13,13 @@
       <div class="row">
         <h1 itemprop="headline"><a class="my-name" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       </div>
-      <div class="row">
+<!--       <div class="row">
         <p class="my-description" itemprop="text">
           {{ site.about }}
-<!--           <br>
+          <br>
           <i class="fa fa-map-marker"></i> {{ site.location }}
-        -->        </p>
-      </div>
+               </p>
+      </div> -->
       <div class="row">
         <div class="col s12 m8 offset-m2 l6 offset-l3">
           {{ content }}

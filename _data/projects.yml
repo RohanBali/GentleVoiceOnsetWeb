@@ -1,5 +1,5 @@
 - name: Download for Windows
-  link: "windows.txt.gz"
+  link: "GentleOnset.exe"
   description: "Supports Windows 7 and above"
 - name: Download for Mac
   link: "mac.txt.gz"

@@ -19,9 +19,9 @@ var show_posts = function() {
     $('#posts-btn').addClass('disabled')
 };
 
-$( document ).ready(function() {
-    show_projects();
-});
+// $( document ).ready(function() {
+//     show_projects();
+// });
 
 
 var passwd = function(linkName){
